@@ -34,82 +34,31 @@ Spreads, card focus, saved sessions, and reader appointments — in English and 
 > Mystery deserves craft.  
 > Soul Readings pairs atmosphere with appointments that actually book.
 
-**Soul Readings** is a focused reading product.  
-It brings spreads, card focus, saved sessions, and reader appointments into one calm, celestial experience — designed in English and German, with a visual language that feels intentional and premium.
+**Soul Readings** is a focused reading product. It brings spreads, card focus, saved sessions, and reader appointments into one calm, celestial experience — designed in English and German, with a visual language that feels intentional and premium.
 
 <br>
 
 ### What It Delivers
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Mood Set**  
-Immersive splash
-
-</td>
-    <td width="50%" valign="top">
-
-**The Draw**  
-Spreads and single-card focus
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**Memory**  
-Previous spreads kept close
-
-</td>
-    <td width="50%" valign="top">
-
-**Book the Reader**  
-Appointment scheduling
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**You**  
-Editable profile
-
-</td>
-    <td width="50%" valign="top">
-
-**Trust Pages**  
-About, privacy, terms
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**Two Languages**  
-English and German
-
-</td>
-    <td width="50%" valign="top">
-
-**Brandable Mystique**  
-Ready for your reading brand
-
-</td>
-  </tr>
-</table>
+- **Mood Set** — Immersive splash
+- **The Draw** — Spreads and single-card focus
+- **Memory** — Previous spreads kept close
+- **Book the Reader** — Appointment scheduling
+- **You** — Editable profile
+- **Trust Pages** — About, privacy, terms
+- **Two Languages** — English and German
+- **Brandable Mystique** — Ready for your reading brand
 
 <br>
 
 ### Interface
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" alt="Screen 01"/>
+  <img src="screenshots/screenshots:01.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" alt="Screen 02"/>
+  <img src="screenshots/screenshots:02.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" alt="Screen 03"/>
+  <img src="screenshots/screenshots:03.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
