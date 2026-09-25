@@ -34,7 +34,7 @@ Spreads, card focus, saved sessions, and reader appointments — in English and 
 > Mystery deserves craft.  
 > Soul Readings pairs atmosphere with appointments that actually book.
 
-**Soul Readings** is a focused reading product. It brings spreads, card focus, saved sessions, and reader appointments into one calm, celestial experience — designed in English and German, with a visual language that feels intentional and premium.
+**Soul Readings** is a focused reading product. It brings spreads, card focus, saved sessions, and reader appointments into one calm, celestial experience — designed in English and German, with a visual language that feels premium and personal.
 
 <br>
 
@@ -54,11 +54,17 @@ Spreads, card focus, saved sessions, and reader appointments — in English and 
 ### Interface
 
 <p align="center">
-  <img src="screenshots/screenshots:01.png" width="240" alt="Screen 01"/>
+  <img src="screenshots/screenshot1.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/screenshots:02.png" width="240" alt="Screen 02"/>
+  <img src="screenshots/screenshot2.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/screenshots:03.png" width="240" alt="Screen 03"/>
+  <img src="screenshots/screenshot3.png" width="240" alt="Screen 03"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot4.png" width="240" alt="Screen 04"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/screenshot5.png" width="240" alt="Screen 05"/>
 </p>
 
 <p align="center">
